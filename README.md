@@ -1,6 +1,9 @@
 <h1 align="center">
- <p>Hey!👋, Nice to see you..</p>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=purple&size=36&center=true&vCenter=true&lines=I'm+Rasel+Sarkar👋." alt="Typing SVG" /></a>
+  <p>Hey! 👋, Nice to see you..</p>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=C9A227&center=true&vCenter=true&width=900&lines=I'm+Rasel+Sarkar;AI%2FML+Engineer+in+Life+Sciences;Founder+%26+CEO+of+BioRoots+AI+Lab" />
+  </a>
 </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raselsarker69&label=Profile%20views&color=0e75b6&style=flat" alt="raselsarker69" /> </p>
@@ -10,19 +13,15 @@
 
 
 <h3 align="left">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=40px valign="bottom"> I'm a AI Engineer | Mentor | YouTuber @rootsofintelligence 
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=40px valign="bottom"> I'm an AI/ML Engineer in Life Sciences | Mentor | YouTuber @rootsofintelligence 
 </h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 ### I have technical experience and interest in:
-* Deep Learning
-* Machine Learning
-* Computer vision 
-* Natural Language Processing
-* MLOps
-* Generative AI 
-* Microcontrollers 
-* Robotics
+* **Life Sciences AI**: Bioinformatics, Genomics, Proteomics & Cheminformatics
+* **Drug Discovery**: Vaccine Design & Development, Structural Biology
+* **Core AI/ML**: Deep Learning, Machine Learning & Generative AI
+* **Engineering**: MLOps, Computer Vision & Natural Language Processing
 
 
 <br><br>
@@ -69,6 +68,15 @@
 ![LangChain](https://img.shields.io/badge/LangChain-%23F3F6F7.svg?style=flat&logo=langchain&logoColor=black)
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-%23F7567C.svg?style=flat&logo=generativeai&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-%230077FF.svg?style=flat&logo=rag&logoColor=white)
+<br><br>
+**Bioinformatics & Life Sciences Tools:**<br>
+![RDKit](https://img.shields.io/badge/RDKit-5A9E2F?style=flat&logo=python&logoColor=white)
+![BioPython](https://img.shields.io/badge/BioPython-85A900?style=flat&logo=python&logoColor=white)
+![PyMOL](https://img.shields.io/badge/PyMOL-0A0A0A?style=flat&logo=python&logoColor=white)
+![AlphaFold](https://img.shields.io/badge/AlphaFold-4285F4?style=flat&logo=google&logoColor=white)
+![Rosetta](https://img.shields.io/badge/Rosetta-FF6C00?style=flat&logo=python&logoColor=white)
+![GROMACS](https://img.shields.io/badge/GROMACS-FFD500?style=flat&logoColor=black)
+<br><br>
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)  ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139) ![AWS](https://img.shields.io/badge/AWS%20Cloud-%234285F4.svg?style=flat&logo=aws-cloud&logoColor=white)
 
 
