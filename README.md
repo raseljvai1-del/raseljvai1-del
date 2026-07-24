@@ -2,7 +2,7 @@
   <p>Hey! 👋, Nice to see you..</p>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=C9A227&center=true&vCenter=true&width=900&lines=I'm+Rasel+Sarkar;AI%2FML+Engineer+in+Life+Sciences;Founder+%26+CEO+of+BioRoots+AI+Lab" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=C9A227&center=true&vCenter=true&width=1000&lines=I'm+Rasel+Sarkar;AI%2FML+Engineer+in+Life+Sciences;Computational+Chemist;AI+Scientist+in+Drug+Discovery;Founder+%26+CEO+of+BioRoots+AI+Lab" />
   </a>
 </h1>
 
